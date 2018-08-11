@@ -1,0 +1,6 @@
+E:\C#_project\Lambda\GenericDelegate\bin\Debug\GenericDelegate.exe.config
+E:\C#_project\Lambda\GenericDelegate\bin\Debug\GenericDelegate.exe
+E:\C#_project\Lambda\GenericDelegate\bin\Debug\GenericDelegate.pdb
+E:\C#_project\Lambda\GenericDelegate\obj\Debug\Delegate.csprojResolveAssemblyReference.cache
+E:\C#_project\Lambda\GenericDelegate\obj\Debug\GenericDelegate.exe
+E:\C#_project\Lambda\GenericDelegate\obj\Debug\GenericDelegate.pdb

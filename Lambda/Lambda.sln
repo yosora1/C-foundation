@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda", "Lambda\Lambda.csproj", "{342D2379-0A01-4750-9466-59D9F9EB6F18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate", "GenericDelegate\Delegate.csproj", "{55EF6D2A-F414-4800-A06E-37CB91FFD9B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateChain", "DelegateChain\DelegateChain.csproj", "{F7991499-3FFA-490B-8380-875F4F2054D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{342D2379-0A01-4750-9466-59D9F9EB6F18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{342D2379-0A01-4750-9466-59D9F9EB6F18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{342D2379-0A01-4750-9466-59D9F9EB6F18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{342D2379-0A01-4750-9466-59D9F9EB6F18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55EF6D2A-F414-4800-A06E-37CB91FFD9B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55EF6D2A-F414-4800-A06E-37CB91FFD9B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55EF6D2A-F414-4800-A06E-37CB91FFD9B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55EF6D2A-F414-4800-A06E-37CB91FFD9B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7991499-3FFA-490B-8380-875F4F2054D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7991499-3FFA-490B-8380-875F4F2054D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7991499-3FFA-490B-8380-875F4F2054D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7991499-3FFA-490B-8380-875F4F2054D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
