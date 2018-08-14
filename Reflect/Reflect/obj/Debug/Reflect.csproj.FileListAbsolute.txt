@@ -1,0 +1,5 @@
+E:\C#_project\Reflect\Reflect\bin\Debug\Reflect.exe.config
+E:\C#_project\Reflect\Reflect\bin\Debug\Reflect.exe
+E:\C#_project\Reflect\Reflect\bin\Debug\Reflect.pdb
+E:\C#_project\Reflect\Reflect\obj\Debug\Reflect.exe
+E:\C#_project\Reflect\Reflect\obj\Debug\Reflect.pdb

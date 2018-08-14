@@ -1,0 +1,5 @@
+E:\C#_project\Reflect\Person\bin\Debug\Person.pdb
+E:\C#_project\Reflect\Person\obj\Debug\Person.pdb
+E:\C#_project\Reflect\Person\bin\Debug\Person.dll.config
+E:\C#_project\Reflect\Person\bin\Debug\Person.dll
+E:\C#_project\Reflect\Person\obj\Debug\Person.dll
