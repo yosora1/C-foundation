@@ -1,0 +1,5 @@
+E:\C#_project\ADO.NetStudy\DataBaseConnection\bin\Debug\DataBaseConnection.exe.config
+E:\C#_project\ADO.NetStudy\DataBaseConnection\bin\Debug\DataBaseConnection.exe
+E:\C#_project\ADO.NetStudy\DataBaseConnection\bin\Debug\DataBaseConnection.pdb
+E:\C#_project\ADO.NetStudy\DataBaseConnection\obj\Debug\DataBaseConnection.exe
+E:\C#_project\ADO.NetStudy\DataBaseConnection\obj\Debug\DataBaseConnection.pdb

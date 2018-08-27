@@ -1,0 +1,9 @@
+E:\C#_project\ADO.NetStudy\LoginDemo\bin\Debug\LoginDemo.exe.config
+E:\C#_project\ADO.NetStudy\LoginDemo\bin\Debug\LoginDemo.exe
+E:\C#_project\ADO.NetStudy\LoginDemo\bin\Debug\LoginDemo.pdb
+E:\C#_project\ADO.NetStudy\LoginDemo\obj\Debug\LoginDemo.Form1.resources
+E:\C#_project\ADO.NetStudy\LoginDemo\obj\Debug\LoginDemo.Properties.Resources.resources
+E:\C#_project\ADO.NetStudy\LoginDemo\obj\Debug\LoginDemo.csproj.GenerateResource.Cache
+E:\C#_project\ADO.NetStudy\LoginDemo\obj\Debug\LoginDemo.exe
+E:\C#_project\ADO.NetStudy\LoginDemo\obj\Debug\LoginDemo.pdb
+E:\C#_project\ADO.NetStudy\LoginDemo\obj\Debug\LoginDemo.csprojResolveAssemblyReference.cache
