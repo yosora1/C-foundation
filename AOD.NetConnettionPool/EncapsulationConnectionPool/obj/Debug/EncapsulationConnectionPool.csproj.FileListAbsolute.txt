@@ -1,0 +1,9 @@
+E:\C#_project\AOD.NetConnettionPool\EncapsulationConnectionPool\bin\Debug\EncapsulationConnectionPool.exe.config
+E:\C#_project\AOD.NetConnettionPool\EncapsulationConnectionPool\bin\Debug\EncapsulationConnectionPool.exe
+E:\C#_project\AOD.NetConnettionPool\EncapsulationConnectionPool\bin\Debug\EncapsulationConnectionPool.pdb
+E:\C#_project\AOD.NetConnettionPool\EncapsulationConnectionPool\obj\Debug\EncapsulationConnectionPool.csprojResolveAssemblyReference.cache
+E:\C#_project\AOD.NetConnettionPool\EncapsulationConnectionPool\obj\Debug\EncapsulationConnectionPool.Form1.resources
+E:\C#_project\AOD.NetConnettionPool\EncapsulationConnectionPool\obj\Debug\EncapsulationConnectionPool.Properties.Resources.resources
+E:\C#_project\AOD.NetConnettionPool\EncapsulationConnectionPool\obj\Debug\EncapsulationConnectionPool.csproj.GenerateResource.Cache
+E:\C#_project\AOD.NetConnettionPool\EncapsulationConnectionPool\obj\Debug\EncapsulationConnectionPool.exe
+E:\C#_project\AOD.NetConnettionPool\EncapsulationConnectionPool\obj\Debug\EncapsulationConnectionPool.pdb

@@ -1,0 +1,6 @@
+E:\C#_project\AOD.NetConnettionPool\ConnectionPool\bin\Debug\ConnectionPool.exe.config
+E:\C#_project\AOD.NetConnettionPool\ConnectionPool\bin\Debug\ConnectionPool.exe
+E:\C#_project\AOD.NetConnettionPool\ConnectionPool\bin\Debug\ConnectionPool.pdb
+E:\C#_project\AOD.NetConnettionPool\ConnectionPool\obj\Debug\ConnectionPool.csprojResolveAssemblyReference.cache
+E:\C#_project\AOD.NetConnettionPool\ConnectionPool\obj\Debug\ConnectionPool.exe
+E:\C#_project\AOD.NetConnettionPool\ConnectionPool\obj\Debug\ConnectionPool.pdb
