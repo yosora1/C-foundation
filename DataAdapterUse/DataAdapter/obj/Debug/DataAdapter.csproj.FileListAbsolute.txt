@@ -1,0 +1,9 @@
+E:\C#_project\DataAdapterUse\DataAdapter\bin\Debug\DataAdapter.exe.config
+E:\C#_project\DataAdapterUse\DataAdapter\bin\Debug\DataAdapter.exe
+E:\C#_project\DataAdapterUse\DataAdapter\bin\Debug\DataAdapter.pdb
+E:\C#_project\DataAdapterUse\DataAdapter\obj\Debug\DataAdapter.csprojResolveAssemblyReference.cache
+E:\C#_project\DataAdapterUse\DataAdapter\obj\Debug\DataAdapter.Form1.resources
+E:\C#_project\DataAdapterUse\DataAdapter\obj\Debug\DataAdapter.Properties.Resources.resources
+E:\C#_project\DataAdapterUse\DataAdapter\obj\Debug\DataAdapter.csproj.GenerateResource.Cache
+E:\C#_project\DataAdapterUse\DataAdapter\obj\Debug\DataAdapter.exe
+E:\C#_project\DataAdapterUse\DataAdapter\obj\Debug\DataAdapter.pdb

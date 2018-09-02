@@ -1,0 +1,6 @@
+E:\C#_project\DataAdapterUse\DataSetAndDataTable\bin\Debug\DataSetAndDataTable.exe.config
+E:\C#_project\DataAdapterUse\DataSetAndDataTable\bin\Debug\DataSetAndDataTable.exe
+E:\C#_project\DataAdapterUse\DataSetAndDataTable\bin\Debug\DataSetAndDataTable.pdb
+E:\C#_project\DataAdapterUse\DataSetAndDataTable\obj\Debug\DataSetAndDataTable.csprojResolveAssemblyReference.cache
+E:\C#_project\DataAdapterUse\DataSetAndDataTable\obj\Debug\DataSetAndDataTable.exe
+E:\C#_project\DataAdapterUse\DataSetAndDataTable\obj\Debug\DataSetAndDataTable.pdb
